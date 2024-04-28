@@ -20,7 +20,7 @@ jobs:
       INSTAMCE_NAME: lab-7-instance
       IMAGE_NAME: lab-7-image
       CONTAINER_NAME: lab-7-container
-      GITHUB_REPO_URL: https://bharadwaz1993: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@https://github.com/bharadwaz1993/HelloWorld.git
+      GITHUB_REPO_URL: https://bharadwaz1993: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@http://github.com/bharadwaz1993/HelloWorld.git
 
     # Add "id-token" with the intended permissions.
     permissions:
